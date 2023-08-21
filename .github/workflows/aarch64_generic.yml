@@ -1,4 +1,4 @@
-name: Start build ssr+  aarch64_generic by wk
+name: Start build ssr+ http aarch64_generic by wk
 
 on:
  workflow_dispatch:
